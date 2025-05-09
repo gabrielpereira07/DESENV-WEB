@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, Sans-Serif;
+  padding: 20px;
+}
+
+input, button {
+  padding: 8px;
+  margin: 5px 0;
+}
+
+ul {
+  margin-top: 10px;
+}
